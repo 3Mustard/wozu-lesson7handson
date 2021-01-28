@@ -10,7 +10,7 @@ namespace Lesson7HandsOn
             e1.getName();   // Employee Name: Matt
             e1.getSalary(); // Salary: 200,000
             e1.hiredDate(); // Hire Date: 3 / 3 / 2033
-
+            Console.WriteLine("---------------------------------------------------");
             SoftwareEngineer e2 = new SoftwareEngineer("Chaeyoung", "3mil", "idk", "None");
             e2.getName(); // Employee Name: Chaeyoung
             e2.getSalary(); // Salary: Sorry, this employee's salary is private.
