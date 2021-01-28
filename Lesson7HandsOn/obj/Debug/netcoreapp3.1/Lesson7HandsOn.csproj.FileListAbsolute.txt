@@ -1,0 +1,13 @@
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\bin\Debug\netcoreapp3.1\Lesson7HandsOn.exe
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\bin\Debug\netcoreapp3.1\Lesson7HandsOn.deps.json
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\bin\Debug\netcoreapp3.1\Lesson7HandsOn.runtimeconfig.json
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\bin\Debug\netcoreapp3.1\Lesson7HandsOn.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\bin\Debug\netcoreapp3.1\Lesson7HandsOn.dll
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\bin\Debug\netcoreapp3.1\Lesson7HandsOn.pdb
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.AssemblyInfo.cs
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.dll
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.pdb
+C:\Users\Matt\source\repos\Lesson7HandsOn\Lesson7HandsOn\obj\Debug\netcoreapp3.1\Lesson7HandsOn.genruntimeconfig.cache
